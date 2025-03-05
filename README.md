@@ -1,5 +1,5 @@
 <p align="center" >
-  <img  src="https://github.com/chronoss09/Theme-retro-consoles/blob/main/Banniere.jpg" alt="Material Bread logo">
+  <img  src="https://github.com/chronoss09/Theme-muOS-Pixie/blob/main/Banniere.png" alt="Material Bread logo">
 </p>
 
 <p align="center">
