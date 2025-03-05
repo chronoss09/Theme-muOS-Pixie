@@ -12,3 +12,9 @@
  <a href="https://github.com/chronoss09/Theme-muOS-Pixie/stargazers">
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="190">
 </p>
+
+## MuOS Advance Theme Collection
+<img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
+<img src="https://github.com/user-attachments/assets/9e7f17c7-829c-4032-9559-26efdd3672dd" width="400">  
+Langues : Fr/US
+Compatible : 640x480/720x480/720x720
