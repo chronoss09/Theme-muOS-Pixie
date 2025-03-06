@@ -20,6 +20,5 @@
  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/mugba/MuOS%20Advance%20Theme%20Collectionl)
  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/mugba/total)
 
-## MuOS Console Art
-<img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
-<img src="https://github.com/user-attachments/assets/9e7f17c7-829c-4032-9559-26efdd3672dd" width="400"> 
+## MuOS Advance Gold Zelda Mod
+<img src="https://github.com/user-attachments/assets/db622660-089a-4149-90a5-d240aab77973" width="400">
