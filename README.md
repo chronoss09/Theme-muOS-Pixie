@@ -22,3 +22,19 @@
 
 ## MuOS Advance Gold Zelda Mod
 <img src="https://github.com/user-attachments/assets/db622660-089a-4149-90a5-d240aab77973" width="400">
+
+## muOS Alekfull-NX
+<img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
+
+
+## muOS Pixie Grid/Daijishou POP!
+<img src="https://github.com/user-attachments/assets/d385e018-b65f-4816-bdc3-d79ecb3f719e" width="400">
+<img src="https://github.com/user-attachments/assets/aa98e5b5-fa6f-4e2b-972d-92593ed5cbf6" width="400">
+
+## Pixel World
+<img src="https://github.com/user-attachments/assets/0fa0c3b8-bcde-4b54-8d89-13ff0162fdf1" width="400">
+
+## Console Art
+<img src="https://github.com/user-attachments/assets/f5de6d75-e4df-4ac7-9c20-9149939a6099" width="400">
+
+
