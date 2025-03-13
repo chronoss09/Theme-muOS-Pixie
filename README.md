@@ -20,12 +20,15 @@
  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/mugba/MuOS%20Advance%20Theme%20Collectionl)
  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/mugba/total)
 
-## MuOS Advance Gold Zelda Mod
+## MuOS Advance Gold Zelda Mod/Animated
 <img src="https://github.com/user-attachments/assets/db622660-089a-4149-90a5-d240aab77973" width="400">
+<img src="https://github.com/user-attachments/assets/b77cf227-eba1-4d68-a3d9-2980eec3bd80" width="400">
+
+## MuOS Advance Animated
+<img src="https://github.com/user-attachments/assets/b44e41b2-57e9-4198-a1d9-3cb631bce9f1" width="400">
 
 ## muOS Alekfull-NX
 <img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
-
 
 ## muOS Pixie Grid/Daijishou POP!
 <img src="https://github.com/user-attachments/assets/d385e018-b65f-4816-bdc3-d79ecb3f719e" width="400">
