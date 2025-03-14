@@ -13,12 +13,12 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="190">
 </p>
 
-## MuOS Advance Theme Collection/Animated
+## MuOS Advance Theme Collection/Animated Mod
 <img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
 <img src="https://github.com/user-attachments/assets/6a8187f2-05b7-4b3d-9b2d-9497414b09a8" width="355">
 
- ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/mugba/MuOS%20Advance%20Theme%20Collectionl)
- ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/mugba/total)
+ ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/gbacollect/MuOS%20Advance%20Theme%20Collectionl)
+ ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/gbacollect/total)
 
 ## MuOS Advance Gold Zelda Mod/Animated
 <img src="https://github.com/user-attachments/assets/db622660-089a-4149-90a5-d240aab77973" width="400">
