@@ -13,6 +13,12 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## New Epic Noir
+<img src="https://github.com/user-attachments/assets/b7b334d0-5aa7-492a-a1b2-eab839f12568" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/nenp/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [New Epic Noir](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/nenp)
+
 ## MuOS Advance Theme Collection/Animated Mod (MAJ)
 <img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
 <img src="https://github.com/user-attachments/assets/6a8187f2-05b7-4b3d-9b2d-9497414b09a8" width="355">
