@@ -8,9 +8,9 @@
  <a href="https://ko-fi.com/chronoss">
         <img src="https://img.shields.io/badge/Donate-Kofi-orange.svg" width="120">
  <a href="https://github.com/chronoss09/Theme-muOS-Pixie/releases/latest">
-        <img src="https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/total.svg" width="240">
+        <img src="https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/total.svg" width="125">
  <a href="https://github.com/chronoss09/Theme-muOS-Pixie/stargazers">
-        <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="190">
+        <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="125">
 </p>
 
 ## MuOS Advance Theme Collection/Animated Mod
