@@ -31,7 +31,7 @@ Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/re
 <img src="https://github.com/user-attachments/assets/b44e41b2-57e9-4198-a1d9-3cb631bce9f1" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbanime2/total?logo=github&label=GitHub%20Downloads)  
-Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbanime2)
+Téléchargement : [GBA Anime 2](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbanime2)
 
 ## muOS Alekfull-NX
 <img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
