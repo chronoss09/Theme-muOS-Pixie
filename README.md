@@ -24,13 +24,13 @@ Téléchargement : [GBA Collect](https://github.com/chronoss09/Theme-muOS-Pixie/
 <img src="https://github.com/user-attachments/assets/db622660-089a-4149-90a5-d240aab77973" width="400">
 <img src="https://github.com/user-attachments/assets/b77cf227-eba1-4d68-a3d9-2980eec3bd80" width="400">
 
-![PICTURE](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbazelda/total)  
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbazelda/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbazelda)
 
 ## MuOS Advance Animated 2 par Couleur 
 <img src="https://github.com/user-attachments/assets/b44e41b2-57e9-4198-a1d9-3cb631bce9f1" width="400">
 
-![PICTURE](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbanime2/total)  
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbanime2/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbanime2)
 
 ## muOS Alekfull-NX
