@@ -17,7 +17,6 @@
 <img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
 <img src="https://github.com/user-attachments/assets/6a8187f2-05b7-4b3d-9b2d-9497414b09a8" width="355">
 
- ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/gbacollect/MuOS%20Advance%20Theme%20Collectionl)
  ![PICTURE](https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/gbacollect/total)
 
 ## MuOS Advance Gold Zelda Mod/Animated
