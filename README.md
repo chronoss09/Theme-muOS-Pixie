@@ -13,6 +13,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## Console Art Collection
+<img src="https://github.com/user-attachments/assets/f5de6d75-e4df-4ac7-9c20-9149939a6099" width="400">
+<img src="https://github.com/user-attachments/assets/17e620e9-8809-43f9-903a-775fa658453e" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/consart/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Console Art](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/consart)
+
 ## muOS Alekfull-NX (MAJ)
 <img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
 
@@ -52,8 +59,5 @@ Téléchargement : [GBA Anime 2](https://github.com/chronoss09/Theme-muOS-Pixie/
 
 ## Pixel World
 <img src="https://github.com/user-attachments/assets/0fa0c3b8-bcde-4b54-8d89-13ff0162fdf1" width="400">
-
-## Console Art
-<img src="https://github.com/user-attachments/assets/f5de6d75-e4df-4ac7-9c20-9149939a6099" width="400">
 
 
