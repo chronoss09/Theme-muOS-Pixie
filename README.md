@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
-## muOS Alekfull-NX
+## muOS Alekfull-NX (MAJ)
 <img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/alekpixie/total?logo=github&label=GitHub%20Downloads)  
