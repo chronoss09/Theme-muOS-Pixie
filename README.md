@@ -13,6 +13,12 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## muOS Alekfull-NX
+<img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/alekpixie/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Alekfull-NX](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/alekpixie)
+
 ## New Epic Noir
 <img src="https://github.com/user-attachments/assets/b7b334d0-5aa7-492a-a1b2-eab839f12568" width="400">
 
@@ -39,9 +45,6 @@ Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/re
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbanime2/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GBA Anime 2](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbanime2)
-
-## muOS Alekfull-NX
-<img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
 
 ## muOS Pixie Grid/Daijishou POP!
 <img src="https://github.com/user-attachments/assets/d385e018-b65f-4816-bdc3-d79ecb3f719e" width="400">
