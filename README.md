@@ -44,6 +44,7 @@ Téléchargement : [GBA Collect](https://github.com/chronoss09/Theme-muOS-Pixie/
 ## MuOS Advance Gold Zelda Mod/Animated
 <img src="https://github.com/user-attachments/assets/db622660-089a-4149-90a5-d240aab77973" width="400">
 <img src="https://github.com/user-attachments/assets/b77cf227-eba1-4d68-a3d9-2980eec3bd80" width="400">
+<img src="https://github.com/user-attachments/assets/74b2ec44-8cc7-458d-bede-8b8ee135935c" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbazelda/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbazelda)
