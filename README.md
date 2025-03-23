@@ -36,6 +36,7 @@ Téléchargement : [New Epic Noir](https://github.com/chronoss09/Theme-muOS-Pixi
 <img src="https://github.com/user-attachments/assets/5a33b3b2-17a2-4120-9419-299749dbf142" width="400">
 <img src="https://github.com/user-attachments/assets/6a8187f2-05b7-4b3d-9b2d-9497414b09a8" width="355">
 <img src="https://github.com/user-attachments/assets/b4691f69-9eb4-44b3-97fe-f3fad956f7a3" width="400">
+<img src="https://github.com/user-attachments/assets/bed11cf8-df96-4d48-a699-373809efb6bb" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbacollect/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GBA Collect](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbacollect)
