@@ -13,6 +13,9 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## muOS Switch (bientôt)
+<img src="https://github.com/user-attachments/assets/e216be06-0e5b-41d2-9e39-28185498aecd" width="400">
+
 ## Console Art Collection
 <img src="https://github.com/user-attachments/assets/f5de6d75-e4df-4ac7-9c20-9149939a6099" width="400">
 <img src="https://github.com/user-attachments/assets/17e620e9-8809-43f9-903a-775fa658453e" width="400">
