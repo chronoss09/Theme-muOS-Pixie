@@ -22,6 +22,7 @@ Téléchargement : [Console Art](https://github.com/chronoss09/Theme-muOS-Pixie/
 
 ## muOS Alekfull-NX (MAJ)
 <img src="https://github.com/user-attachments/assets/8c08140d-0428-4c7e-896c-e82ddb82c86a" width="400">
+<img src="https://github.com/user-attachments/assets/cd65a051-b200-4e11-b365-590a7b1bbd40" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/alekpixie/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [muOS Alekfull-NX](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/alekpixie)
