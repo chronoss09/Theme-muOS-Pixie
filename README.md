@@ -13,10 +13,8 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
-## muOS Switch
-<img src="https://github.com/user-attachments/assets/02933142-01b1-438d-8585-1c18171cf056" width="400">
-<img src="https://github.com/user-attachments/assets/d1e8cb1e-18fa-4b44-8408-8f517a18f6e1" width="400">
-<img src="https://github.com/user-attachments/assets/e216be06-0e5b-41d2-9e39-28185498aecd" width="400">
+## muOS Switch Online
+<img src="https://github.com/user-attachments/assets/0b4d129b-aeba-4ebf-802d-92c647a1d013" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/mswitch/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [Console Art](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/mswitch)
