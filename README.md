@@ -17,7 +17,7 @@
 <img src="https://github.com/user-attachments/assets/0b4d129b-aeba-4ebf-802d-92c647a1d013" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/mswitch/total?logo=github&label=GitHub%20Downloads)  
-Téléchargement : [Console Art](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/mswitch)
+Téléchargement : [muOS Switch Online](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/mswitch)
 
 ## Console Art Collection
 <img src="https://github.com/user-attachments/assets/f5de6d75-e4df-4ac7-9c20-9149939a6099" width="400">
