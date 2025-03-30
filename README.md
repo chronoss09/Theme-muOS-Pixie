@@ -13,6 +13,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## muOS Pixie Yellow Collection
+<img src="https://github.com/user-attachments/assets/d385e018-b65f-4816-bdc3-d79ecb3f719e" width="400">
+<img src="https://github.com/user-attachments/assets/aa98e5b5-fa6f-4e2b-972d-92593ed5cbf6" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/piyellow/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS Pixie Yellow Collection](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/piyellow)
+
 ## muOS Switch Online
 <img src="https://github.com/user-attachments/assets/0b4d129b-aeba-4ebf-802d-92c647a1d013" width="400">
 
@@ -62,9 +69,6 @@ Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/re
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbanime2/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GBA Anime 2](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbanime2)
 
-## muOS Pixie Grid/Daijishou POP!
-<img src="https://github.com/user-attachments/assets/d385e018-b65f-4816-bdc3-d79ecb3f719e" width="400">
-<img src="https://github.com/user-attachments/assets/aa98e5b5-fa6f-4e2b-972d-92593ed5cbf6" width="400">
 
 ## Pixel World
 <img src="https://github.com/user-attachments/assets/0fa0c3b8-bcde-4b54-8d89-13ff0162fdf1" width="400">
