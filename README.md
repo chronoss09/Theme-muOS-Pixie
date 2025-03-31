@@ -17,7 +17,7 @@
 <img src="https://github.com/user-attachments/assets/d385e018-b65f-4816-bdc3-d79ecb3f719e" width="400">
 <img src="https://github.com/user-attachments/assets/aa98e5b5-fa6f-4e2b-972d-92593ed5cbf6" width="400">
 
-![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/piyellow/total?logo=github&label=GitHub%20Downloads)  
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/piyellow/total?logo=github&label=GitHub%20Downloads)   
 Téléchargement : [muOS Pixie Yellow Collection](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/piyellow)
 
 ## muOS Switch Online
