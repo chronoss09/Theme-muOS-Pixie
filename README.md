@@ -13,6 +13,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## gbOS Pixie (Multi couleurs)
+<img src="https://github.com/user-attachments/assets/fb3cc863-916e-415a-9b4f-ad405ff4525f" width="400">
+<img src="https://github.com/user-attachments/assets/422555ff-96b5-484e-b628-57fc06348971" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbos/total?logo=github&label=GitHub%20Downloads)   
+Téléchargement : [gbOS Pixie](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbos)
+
 ## muOS Pixie Yellow Collection (MAJ)
 <img src="https://github.com/user-attachments/assets/d385e018-b65f-4816-bdc3-d79ecb3f719e" width="400">
 <img src="https://github.com/user-attachments/assets/aa98e5b5-fa6f-4e2b-972d-92593ed5cbf6" width="400">
