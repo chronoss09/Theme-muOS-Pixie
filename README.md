@@ -48,8 +48,9 @@ Téléchargement : [Console Art](https://github.com/chronoss09/Theme-muOS-Pixie/
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/alekpixie/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [muOS Alekfull-NX](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/alekpixie)
 
-## New Epic Noir
+## New Epic Noir (MAJ)
 <img src="https://github.com/user-attachments/assets/b7b334d0-5aa7-492a-a1b2-eab839f12568" width="400">
+<img src="https://github.com/user-attachments/assets/7192352a-059f-4319-b2c3-70ddcb220870" width="400">  
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/nenp/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [New Epic Noir](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/nenp)
