@@ -14,10 +14,10 @@
 </p>
 
 ## muOS GB Advance (En cours...)
-<img src="https://github.com/user-attachments/assets/5dddf9de-02e2-46af-a0d2-196cf4b027ed" width="300">
-<img src="https://github.com/user-attachments/assets/22363b4f-2e77-4154-a492-9ca8baf51dac" width="300">
-<img src="https://github.com/user-attachments/assets/2c65895b-708e-4efb-9269-e62e0096b5ba" width="300">
-<img src="https://github.com/user-attachments/assets/684aadf2-eeec-4c33-8f84-31777b887ac1" width="300">
+<img src="https://github.com/user-attachments/assets/5dddf9de-02e2-46af-a0d2-196cf4b027ed" width="400">
+<img src="https://github.com/user-attachments/assets/22363b4f-2e77-4154-a492-9ca8baf51dac" width="400">
+<img src="https://github.com/user-attachments/assets/2c65895b-708e-4efb-9269-e62e0096b5ba" width="400">
+<img src="https://github.com/user-attachments/assets/684aadf2-eeec-4c33-8f84-31777b887ac1" width="400">
 
 ## gbOS Pixie (Multi couleurs)
 <img src="https://github.com/user-attachments/assets/fb3cc863-916e-415a-9b4f-ad405ff4525f" width="400">
