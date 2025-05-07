@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
-## muOS GB Advance Collection (En cours...)
+## muOS GB Advance Collection
 <img src="https://github.com/user-attachments/assets/5dddf9de-02e2-46af-a0d2-196cf4b027ed" width="300">
 <img src="https://github.com/user-attachments/assets/22363b4f-2e77-4154-a492-9ca8baf51dac" width="300">
 <img src="https://github.com/user-attachments/assets/2c65895b-708e-4efb-9269-e62e0096b5ba" width="300">
