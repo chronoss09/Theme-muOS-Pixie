@@ -13,6 +13,12 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## Epic muOS
+<img src="https://github.com/user-attachments/assets/3c587bc9-2080-44ab-840d-32e96e7ffac1" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/epmu/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Epic muOS](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/epmu)
+
 ## muOS GB Advance Collection
 <img src="https://github.com/user-attachments/assets/5dddf9de-02e2-46af-a0d2-196cf4b027ed" width="300">
 <img src="https://github.com/user-attachments/assets/22363b4f-2e77-4154-a492-9ca8baf51dac" width="300">
