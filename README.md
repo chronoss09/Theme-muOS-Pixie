@@ -13,6 +13,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## muOS G10 (portage MOD)
+<img src="https://github.com/user-attachments/assets/85d2df7a-7650-412c-b941-542d44fd1b4d" width="400">
+<img src="https://github.com/user-attachments/assets/b4d56883-1e33-4edb-856e-8b15bae2ca8d" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/g10/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [muOS G10](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/g10)
+
 ## Epic muOS
 <img src="https://github.com/user-attachments/assets/3c587bc9-2080-44ab-840d-32e96e7ffac1" width="400">
 
