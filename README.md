@@ -11,7 +11,14 @@
         <img src="https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/total.svg" width="135"></a>
  <a href="https://github.com/chronoss09/Theme-muOS-Pixie/stargazers">
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
-</p>
+</p>Pokémon World 
+
+## Pokémon World
+<img src="https://github.com/user-attachments/assets/e2a30311-5dbb-455e-bd16-0cbc1b50c5e2" width="400">
+<img src="https://github.com/user-attachments/assets/afc04885-0709-4941-b191-b98359816b23" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/pokew/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Pokémon World](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/pokew)
 
 ## muOS G10 (portage MOD)
 <img src="https://github.com/user-attachments/assets/85d2df7a-7650-412c-b941-542d44fd1b4d" width="400">
