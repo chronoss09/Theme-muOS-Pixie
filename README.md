@@ -15,7 +15,7 @@
 
 ## Pokémon World
 <img src="https://github.com/user-attachments/assets/e2a30311-5dbb-455e-bd16-0cbc1b50c5e2" width="400">
-<img src="https://github.com/user-attachments/assets/afc04885-0709-4941-b191-b98359816b23" width="400">
+<img src="https://github.com/user-attachments/assets/18d334cf-4b42-42d8-8835-d52ed20e56f8" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/pokew/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [Pokémon World](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/pokew)
