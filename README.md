@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+ <a href="https://muos.dev">
+        <img src="https://img.shields.io/badge/Platform-muOS CFW-yellox.svg" width="160"></a>
  <a href="https://www.paypal.com/paypalme/chronoss01">
         <img src="https://img.shields.io/badge/Donate-Paypal-blue.svg" width="140"></a>
  <a href="https://ko-fi.com/chronoss">
@@ -11,7 +13,7 @@
         <img src="https://img.shields.io/github/downloads/chronoss09/Theme-muOS-Pixie/total.svg" width="135"></a>
  <a href="https://github.com/chronoss09/Theme-muOS-Pixie/stargazers">
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
-</p>Pokémon World 
+</p>
 
 ## Console Grid Art
 <img src="https://github.com/user-attachments/assets/775fa7a9-b1f4-47a6-974d-6fd203b2d732" width="400">
