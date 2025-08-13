@@ -13,6 +13,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>Pokémon World 
 
+## Console Grid Art
+<img src="https://github.com/user-attachments/assets/775fa7a9-b1f4-47a6-974d-6fd203b2d732" width="400">
+<img src="https://github.com/user-attachments/assets/3f07bea2-a5b9-4cda-9464-545d3c9bab24" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/cargrid/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Console Grid Art](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/cargrid)
+
 ## Pokémon World
 <img src="https://github.com/user-attachments/assets/e2a30311-5dbb-455e-bd16-0cbc1b50c5e2" width="400">
 <img src="https://github.com/user-attachments/assets/18d334cf-4b42-42d8-8835-d52ed20e56f8" width="400">
