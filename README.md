@@ -15,6 +15,12 @@
         <img src="https://img.shields.io/github/stars/chronoss09/Theme-muOS-Pixie" width="120"></a>
 </p>
 
+## Pixel World v2 Pixie
+<img src="https://github.com/user-attachments/assets/afc04b7b-cd3b-4b7b-a787-8dd93ed47d2b" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/pix2/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Pixel World v2 Pixie](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/pix2)
+
 ## Console Grid Art
 <img src="https://github.com/user-attachments/assets/775fa7a9-b1f4-47a6-974d-6fd203b2d732" width="400">
 <img src="https://github.com/user-attachments/assets/3f07bea2-a5b9-4cda-9464-545d3c9bab24" width="400">
@@ -117,9 +123,3 @@ Téléchargement : [GBA Zelda](https://github.com/chronoss09/Theme-muOS-Pixie/re
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/Theme-muOS-Pixie/gbanime2/total?logo=github&label=GitHub%20Downloads)  
 Téléchargement : [GBA Anime 2](https://github.com/chronoss09/Theme-muOS-Pixie/releases/tag/gbanime2)
-
-
-## Pixel World
-<img src="https://github.com/user-attachments/assets/0fa0c3b8-bcde-4b54-8d89-13ff0162fdf1" width="400">
-
-
